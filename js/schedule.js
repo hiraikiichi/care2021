@@ -93,6 +93,13 @@ var Events = {
             "enddate": "",
             "color": "#bdb76b",
         },
+        {
+            "id": 14,
+            "name": "しうろん締切",
+            "startdate": "2022-01-31",
+            "enddate": "",
+            "color": "RED",
+        },
     ]
 };
 
