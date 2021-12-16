@@ -1,0 +1,16 @@
+body{
+    text-align: center;
+    background-color: #fcfcfc;
+}
+.calendar{
+    margin-top: 10em;
+    width:100%;
+    max-width:800px;
+    display:inline-block;
+}
+header{
+    font-size: 30px;
+}
+footer{
+    margin-top: 10em;
+}
