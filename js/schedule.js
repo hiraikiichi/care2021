@@ -100,6 +100,13 @@ var Events = {
             "enddate": "",
             "color": "RED",
         },
+        {
+            "id": 15,
+            "name": "ゼミ",
+            "startdate": "2022-01-13",
+            "enddate": "",
+            "color": "#bdb76b",
+        },
     ]
 };
 
