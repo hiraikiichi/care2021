@@ -107,6 +107,13 @@ var Events = {
             "enddate": "",
             "color": "#bdb76b",
         },
+        {
+            "id": 16,
+            "name": "休講(学内入試 入校禁止)",
+            "startdate": "2022-01-27",
+            "enddate": "2022-01-28",
+            "color": "#ee82ee",
+        },
     ]
 };
 
