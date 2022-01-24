@@ -114,6 +114,27 @@ var Events = {
             "enddate": "2022-01-28",
             "color": "#ee82ee",
         },
+        {
+            "id": 17,
+            "name": "発表練習3",
+            "startdate": "2022-02-07",
+            "enddate": "",
+            "color": "#4169e1",
+        },
+        {
+            "id": 18,
+            "name": "ゼミ",
+            "startdate": "2022-02-07",
+            "enddate": "",
+            "color": "#bdb76b",
+        },
+        {
+            "id": 19,
+            "name": "最終発表",
+            "startdate": "2022-02-14",
+            "enddate": "",
+            "color": "RED",
+        },
     ]
 };
 
